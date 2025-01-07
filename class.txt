@@ -4,14 +4,14 @@ Add the file and commit it to your local repository with a message of your choic
 Push the commit to the forked repository.
 Crimson
 Orange
-Green
+blue
 Cyan
 Yellow
-Ivory
+charcoal
 Khaki
 Coral
 Silver
 Fuchsia
-Gray
+purple
 Brown
 Red
